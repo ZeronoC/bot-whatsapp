@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['62882003806038']
+global.owner = ['6289614412045']
 global.autoread = false
 global.selfmode = false
 global.autobio = false // or node . --autobio
@@ -37,8 +37,8 @@ global.APIs = { // API Prefix
 
 global.APIKeys = { // APIKey Here
    'http://api.vhtear.com': 'YOUR-APIKEY',
-   'https://api.lolhuman.xyz': 'YOUR-APIKEY',
-  'https://api.xteam.xyz': 'YOUR-APIKEY'
+   'https://api.lolhuman.xyz': 'LolHumanzzh',
+  'https://api.xteam.xyz': 'f4a27fd3b3a157f7'
 ,
   'https://api.zeks.me': 'rikkabotwa',
   'https://rikka-api.xyz': 'free5d', // chat wa.me/62882003806038 to buy apikey
